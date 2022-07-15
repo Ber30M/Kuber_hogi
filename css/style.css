@@ -77,3 +77,10 @@ button.login_btn{
     width: 100%;
     background-color: #4554a5;
 }
+
+.right{
+    background-color: rosybrown;
+}
+#username{
+    background-color: #f70531;
+}
